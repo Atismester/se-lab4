@@ -1,0 +1,4 @@
+# T9: van torpedo, de mindket raktar mindig meghibasodik
+GT4500,5,1,5,1
+TORPEDO,SINGLE
+TORPEDO,ALL

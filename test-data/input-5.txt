@@ -1,0 +1,4 @@
+# T5: mindket raktar ures - nincs mivel tuzelni, egyik modban sem
+GT4500,0,0,0,0
+TORPEDO,SINGLE
+TORPEDO,ALL

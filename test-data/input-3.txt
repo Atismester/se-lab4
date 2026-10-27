@@ -1,0 +1,4 @@
+# T3: a masodlagos ures, ezert a masodik loves is az elsodlegesbol megy
+GT4500,5,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

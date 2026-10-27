@@ -1,0 +1,6 @@
+# T1: az elso SINGLE loves az elsodlegesbol megy, a masodik a masodlagosra valt
+#     (hibarata 1 -> FAIL), es a hajo NEM esik vissza az elsodlegesre
+GT4500,10,0,10,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
