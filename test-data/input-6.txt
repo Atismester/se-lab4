@@ -1,0 +1,5 @@
+# T6: ALL modban mindket raktar tuzel - egy-egy torpedoval
+#     az elso ALL sikerul, a masodik mar nem talal torpedot
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,ALL

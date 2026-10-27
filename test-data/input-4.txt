@@ -1,0 +1,4 @@
+# T4: egyetlen torpedo az elsodlegesben, a masodlagos ures
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
